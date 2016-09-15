@@ -13,7 +13,7 @@ Install the latest version with yum, like so:
 .. note::
    As with all centos/redhat packages, 'latest' usually won't mean the current stable version that could be found on the project website, but rather than latest package provided by centos/redhat.
 
-   These typically include backported security patches, see the page on PCI for further information. :doc:`/linux/misc/pci`
+   These typically include backported security patches, see the page on PCI for further information.
 ```
 
 Most people will want their webserver to start on boot, use chkconfig to make it so:
@@ -100,6 +100,3 @@ Most sites now need more that just basic html, often using php to generate their
 
 The following documents carry on the setup for those particular elements:
 
-[PHP Installation](/linux/php/installation.html)
-
-[MySQL Installation](/linux/mysql/installation.html)
