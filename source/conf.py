@@ -1,1 +1,1 @@
-../sekhmet/conf.py.sekhmet
+../ukf/conf.py.ukf
