@@ -2,8 +2,6 @@
 Welcome to UKFast's Documentation!
 ==================================
 
-This is but the skeleton of what's yet to come.
-
 Contents:
 =========
 
@@ -11,3 +9,4 @@ Contents:
    :maxdepth: 2
 
    linux/index
+   backups/index

@@ -8,3 +8,13 @@ Everyones favourite open source operating system
    :maxdepth: 1
 
    apache/index
+   basics/index
+   controlpanels/index
+   clusters/index
+   ftp/index
+   mail/index
+   misc/index
+   mysql/index
+   nginx/index
+   php/index
+   websites/index
