@@ -20,5 +20,5 @@ after_success:
     - scp -r -p build/html/* root@46.37.163.252:/var/www/vhosts/docs.ukfast.co.uk/htdocs
     - ssh root@46.37.163.252 chown -R nginx.nginx /var/www/vhosts/docs.ukfast.co.uk/htdocs
     - ssh root@46.37.163.252 rm -rf /opt/docs.ukfast.co.uk/*
-    - scp -rp * /opt/docs.ukfast.co.uk/
+    - scp -r -p * root@46.37.163.252:/opt/docs.ukfast.co.uk/
     - ssh root@46.37.163.252 bash /opt/docs.ukfast.co.uk/deploy_docs.sh
