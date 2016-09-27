@@ -11,6 +11,8 @@ install:
   - pip install recommonmark
 script:
   - sphinx-build -nW -b html -d build/doctrees source/ build/html
+  - make build/html/_static/css/app.css
+  - make build/html/_static/app.js
 after_success:
     - chmod 600 deploy_key
     - mv deploy_key ~/.ssh/id_rsa
