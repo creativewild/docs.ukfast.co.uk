@@ -7,9 +7,9 @@ be using `-u {username}` to designate a user and `-e` to edit the jobs.
 
 For example `crontab -u {username} -e` opens {username}'s crontab for editing. Using the user 'bob' as a demonstration, we could use the following command:
 
-``bash
+```bash
   crontab -u bob -e
-``
+```
 
 A typical cronjob is comprised of two parts:
 * The schedule

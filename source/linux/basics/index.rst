@@ -24,5 +24,4 @@ Basics
    services_centos6
    services_centos7
    repositories
-   services
    whois

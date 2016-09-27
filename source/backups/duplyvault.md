@@ -182,7 +182,7 @@ Save that to a file on your server (`/usr/bin/duplyback.sh` in my case), change 
 
 With that done, it's just a matter of adding it into crontab. Open crontab with `crontab -e` and use something like this, adjusting the timing to suit you:
 
-```cron
+```bash
 1 2 * * * /usr/bin/duplyback.sh
 ```
 
