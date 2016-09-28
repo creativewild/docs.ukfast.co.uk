@@ -1,6 +1,0 @@
-================
-Linux Clustering
-================
-
-.. toctree::
-   bcp

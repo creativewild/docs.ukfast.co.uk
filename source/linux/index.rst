@@ -10,7 +10,6 @@ Everyones favourite open source operating system
    apache/index
    basics/index
    controlpanels/index
-   clusters/index
    ftp/index
    mail/index
    misc/index

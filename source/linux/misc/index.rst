@@ -8,7 +8,7 @@ Miscellaneous
    clam
    fsck
    logrotate
-   pci
+   vulnerabilityscans
    self_signed_certificates
    rsync
    sed
