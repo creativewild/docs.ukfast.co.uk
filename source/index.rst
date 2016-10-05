@@ -8,5 +8,6 @@ Contents:
 .. toctree::
    :maxdepth: 2
 
+   flex/index
    linux/index
    backups/index
