@@ -4,6 +4,8 @@ This guide is more of a springboard for the others in this category, getting you
 
 ## The Openstack RC file
 
+this is a test change - remember to remove
+
 The primary way in which we'll achieve this is via use of a file provided by openstack. This file is a list of pre-populated environment variables that will be used whenever you log into your shell session.
 
 It's best explained through demonstration, so you can head to the following location to find the file:
