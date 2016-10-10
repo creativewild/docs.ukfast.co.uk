@@ -76,8 +76,8 @@ Open it with the editor of your choice (`vim` of course) and replace all the con
    GPG_PW='pryhaerdr7TIbra'
    GPG_OPTS='--compress-algo=bzip2 --personal-cipher-preferences AES256,AES192'
    TARGET='s3://vault.ecloud.co.uk/sambackup/docs/'
-   TARGET_USER='8ASJQWEKJ8DHJFKSHEUV'
-   TARGET_PASS='e3NozpAdkjfiwhnvpwjvkhz6GHJ43a8chji4bnmG'
+   export AWS_ACCESS_KEY_ID='8ASJQWEKJ8DHJFKSHEUV'
+   export AWS_SECRET_ACCESS_KEY='e3NozpAdkjfiwhnvpwjvkhz6GHJ43a8chji4bnmG'
    SOURCE='/'
    MAX_AGE=1M
    TEMP_DIR=/tmp
