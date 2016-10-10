@@ -11,3 +11,4 @@ Contents:
    flex/index
    linux/index
    backups/index
+   fastdesk/index
