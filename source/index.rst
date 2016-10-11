@@ -15,6 +15,7 @@ Contents:
    backups/index
    myukfast/index
    fastdrive/index
+   sharedexchange/index
 
 You can help make this documentation better on Github.  Just click on the pencil icon on the right hand side of any page.
 
