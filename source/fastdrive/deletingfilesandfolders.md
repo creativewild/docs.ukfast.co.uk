@@ -1,3 +1,5 @@
+#Deleting Files and Folders
+
 So you now know how to upload files and create new folders, but what if you want to delete these items.
 
 ![Image8](https://github.com/richgukfast/docs.ukfast.co.uk/blob/master/source/fastdrive/files/Image8.png)
