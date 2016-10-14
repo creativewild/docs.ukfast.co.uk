@@ -2,11 +2,11 @@
 
 Employees can be managed from the ‘Browse Employees’ tab under ‘Manage Users Home’.
 
-![Image28](https://github.com/richgukfast/docs.ukfast.co.uk/blob/master/source/fastdrive/files/Image28.png)
+![Image28](files/Image28.png)
 
 From this page you can search for employees through either user name or by manually looking for them through the list of employees. To manage an employee, locate their name and click the settings cog on the far right.
 
-![Image29](https://github.com/richgukfast/docs.ukfast.co.uk/blob/master/source/fastdrive/files/Image29.png)
+![Image29](files/Image29.png)
 
 From there, you will be presented with a user configuration page with permission to change ‘Basic Information’, ‘Admin Privileges’ and ‘Basic User Permissions’. There is also a drop down menu next to the name of the user called ‘Downgrade / Delete Employee’. When highlighted over it will reveal the following:
 
@@ -20,4 +20,4 @@ From there, you will be presented with a user configuration page with permission
 
 'Log this user out of all open sessions’ will log them out of every session that is open. This can be useful a user has forgotten to logout of a session at another location and would like to log off remotely.
 
-![Image30](https://github.com/richgukfast/docs.ukfast.co.uk/blob/master/source/fastdrive/files/Image30.png)
+![Image30](files/Image30.png)
