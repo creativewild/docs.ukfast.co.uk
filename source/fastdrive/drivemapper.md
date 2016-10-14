@@ -8,7 +8,7 @@ Once you downloaded ShareFile Drive Mapper you will need to follow the download 
 
 When the installation is complete you will now be presented with a login screen shown below.
 
-![Image10](https://github.com/richgukfast/docs.ukfast.co.uk/blob/master/source/fastdrive/files/Image10.PNG)
+![Image10](files/Image10.PNG)
 
 The email and password are the same as you use to login to the FASTdrive unique web application
 You will now be logged in and will have access to all the files and folders which you have permission to access on FASTdrive.
