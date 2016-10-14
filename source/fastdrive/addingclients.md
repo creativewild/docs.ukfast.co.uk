@@ -10,7 +10,7 @@ This is exactly the same as it is for setting up employee accounts.
 
 The majority of this step is exactly the same as setting up an account for an employee user, the key difference being that their basic user permissions are far more limited. Below are the basic permissions that can be set for a client user. It is up to you whether you ‘Add this user to the shared company address book’ however, we do recommend that the top 2 boxes are ticked to allow the client user to control some of their settings and allow them to change their password.
 
-![Image27](https://github.com/richgukfast/docs.ukfast.co.uk/blob/master/source/fastdrive/files/Image27.png)
+![Image27](files/Image27.png)
 
 ## Step 3
 
