@@ -4,7 +4,7 @@
 
 Firstly, you will need to provide the user’s email address, which will be used as their username for logging into FASTdrive.
 
-![Image13](https://github.com/richgukfast/docs.ukfast.co.uk/blob/master/source/fastdrive/files/Image13.png)
+![Image13](files/Image13.png)
 
 ## Step 2
 
